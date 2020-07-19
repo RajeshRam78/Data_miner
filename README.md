@@ -1,2 +1,3 @@
 # Data_miner
-Data miner : will be explained soon...!
+Intention:
+Will be explained soon ...!
